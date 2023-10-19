@@ -16,7 +16,7 @@ cin>>a>>b;
        	case 3: ans=a*b; break;
 	case 4: ans=a/b;break;
       }
-cout<<"changesa made by anjali"
+cout<<"changes made by anjali"
 cout<<ans;
 cout<<"Code run successfully";
 return 0;
